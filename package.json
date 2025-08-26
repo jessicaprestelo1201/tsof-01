@@ -1,0 +1,26 @@
+{
+  "name": "tsof-01",
+  "version": "1.0.0",
+  "description": "Respositório para aula inicial de Testes de Software",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicaprestelo1201/tsof-01.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "JavaScript",
+    "TSOF",
+    "Jest"
+  ],
+  "author": "Jessica Prestelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessicaprestelo1201/tsof-01/issues"
+  },
+  "homepage": "https://github.com/jessicaprestelo1201/tsof-01#readme"
+}
